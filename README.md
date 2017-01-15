@@ -6,7 +6,7 @@ This is the repository for "Genertive Algorithm with Video Feed" workshop in ITP
  *  ITP, Room 50
  *  [Sign Up Website](https://itp.nyu.edu/unconference/2017/01/video-feed-w-generative-algorithm/)
 
- # Resource
+# Resource
  * [Generative Art](https://en.wikipedia.org/wiki/Generative_art)
  * [Generative Art and Computational Creativity](https://www.kadenze.com/courses/generative-art-and-computational-creativity-i)
  * Algorithms:
